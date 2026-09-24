@@ -1,0 +1,116 @@
+[
+  {
+    "id": "demo-data",
+    "title": "Data Insights Intern",
+    "company": "Northstar Studio · 虚构公司",
+    "location": "Irvine, CA",
+    "description": "Fictional example. Open to undergraduate students graduating in 2027–2029. Python and Excel required. SQL preferred. Paid, on-site internship in Irvine for summer 2027. Work authorization requirements are not specified.",
+    "skills": [
+      "Python",
+      "Excel",
+      "SQL"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Excel"
+    ],
+    "undergraduate": "yes",
+    "gradMin": "2027",
+    "gradMax": "2029",
+    "majorTerms": "",
+    "paid": "yes",
+    "remote": "no",
+    "evidence": "Open to undergraduate students graduating in 2027–2029. Python and Excel required. SQL preferred.",
+    "workAuthNote": "示例原文未说明工作授权要求。",
+    "verified": true,
+    "demo": true,
+    "url": "",
+    "source": "demo",
+    "status": "unknown",
+    "checkedAt": ""
+  },
+  {
+    "id": "demo-research",
+    "title": "Research & Policy Intern",
+    "company": "Civic Lab · 虚构机构",
+    "location": "Remote · United States",
+    "description": "Fictional example. Undergraduate students welcome. Research and writing skills required. Remote, paid, ten-week summer internship. Graduation year and work authorization requirements are not specified.",
+    "skills": [
+      "Research",
+      "Writing",
+      "Communication"
+    ],
+    "requiredSkills": [
+      "Research",
+      "Writing"
+    ],
+    "undergraduate": "yes",
+    "gradMin": "",
+    "gradMax": "",
+    "paid": "yes",
+    "remote": "yes",
+    "evidence": "Undergraduate students welcome. Research and writing skills required.",
+    "verified": true,
+    "demo": true,
+    "url": "",
+    "source": "demo",
+    "status": "unknown",
+    "checkedAt": "",
+    "majorTerms": "",
+    "workAuthNote": ""
+  },
+  {
+    "id": "demo-design",
+    "title": "Product Design Intern",
+    "company": "Forma Collective · 虚构公司",
+    "location": "New York, NY",
+    "description": "Fictional example. Undergraduate students graduating in 2027 only. Figma required. Communication preferred. Paid on-site internship. Work authorization requirements not specified.",
+    "skills": [
+      "Figma",
+      "Communication"
+    ],
+    "requiredSkills": [
+      "Figma"
+    ],
+    "undergraduate": "yes",
+    "gradMin": "2027",
+    "gradMax": "2027",
+    "paid": "yes",
+    "remote": "no",
+    "evidence": "Undergraduate students graduating in 2027 only. Figma required.",
+    "verified": true,
+    "demo": true,
+    "url": "",
+    "source": "demo",
+    "status": "unknown",
+    "checkedAt": "",
+    "majorTerms": "",
+    "workAuthNote": ""
+  },
+  {
+    "id": "demo-ops",
+    "title": "Community Operations Intern",
+    "company": "Open Field · 虚构组织",
+    "location": "Remote · United States",
+    "description": "Fictional example. Student internship. Excel and communication experience preferred. Compensation, degree eligibility and graduation year are not specified.",
+    "skills": [
+      "Excel",
+      "Communication"
+    ],
+    "requiredSkills": [],
+    "undergraduate": "unknown",
+    "gradMin": "",
+    "gradMax": "",
+    "paid": "unknown",
+    "remote": "yes",
+    "evidence": "Excel and communication experience preferred.",
+    "verified": true,
+    "demo": true,
+    "url": "",
+    "source": "demo",
+    "status": "unknown",
+    "checkedAt": "",
+    "majorTerms": "",
+    "workAuthNote": ""
+  }
+]

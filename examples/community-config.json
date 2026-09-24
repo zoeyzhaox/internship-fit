@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "name": "Community Fit",
+  "accent": "#2b54ed",
+  "target": "第一次找实习的本科生",
+  "weights": {
+    "skills": 35,
+    "interests": 50,
+    "location": 15
+  },
+  "paidOnly": false,
+  "remoteOnly": false,
+  "hideBlocked": false,
+  "strictUnknown": false,
+  "preferredLocation": "",
+  "interests": "community, operations, communication",
+  "template": "compact",
+  "sections": [
+    "experience",
+    "education",
+    "skills"
+  ],
+  "sources": [],
+  "prompt": "Select the most relevant real experiences. Explain relevance with exact job evidence. Never invent skills, numbers, achievements or qualifications."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "internship-fit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A customizable, evidence-first internship application workspace.",
+  "engines": { "node": ">=22.9" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "license": "MIT"
+}
